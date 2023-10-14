@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ab758dc.css",
-    "main.js": "/static/js/main.ee2b41b8.js",
-    "static/js/787.7bbba126.chunk.js": "/static/js/787.7bbba126.chunk.js",
-    "index.html": "/index.html",
-    "main.3ab758dc.css.map": "/static/css/main.3ab758dc.css.map",
-    "main.ee2b41b8.js.map": "/static/js/main.ee2b41b8.js.map",
-    "787.7bbba126.chunk.js.map": "/static/js/787.7bbba126.chunk.js.map"
+    "main.css": "/GunDeathsGood/static/css/main.3ab758dc.css",
+    "main.js": "/GunDeathsGood/static/js/main.d6593384.js",
+    "static/js/787.7bbba126.chunk.js": "/GunDeathsGood/static/js/787.7bbba126.chunk.js",
+    "index.html": "/GunDeathsGood/index.html",
+    "main.3ab758dc.css.map": "/GunDeathsGood/static/css/main.3ab758dc.css.map",
+    "main.d6593384.js.map": "/GunDeathsGood/static/js/main.d6593384.js.map",
+    "787.7bbba126.chunk.js.map": "/GunDeathsGood/static/js/787.7bbba126.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ab758dc.css",
-    "static/js/main.ee2b41b8.js"
+    "static/js/main.d6593384.js"
   ]
 }
